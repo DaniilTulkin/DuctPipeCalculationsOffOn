@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31829.152
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DuctPipeCalculationsOffOn", "DuctPipeCalculationsOffOn.csproj", "{C8751F0D-93BC-4615-932C-8A2609A400CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		NIKA_DEBUG|Any CPU = NIKA_DEBUG|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C8751F0D-93BC-4615-932C-8A2609A400CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8751F0D-93BC-4615-932C-8A2609A400CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8751F0D-93BC-4615-932C-8A2609A400CE}.NIKA_DEBUG|Any CPU.ActiveCfg = NIKA_DEBUG|Any CPU
+		{C8751F0D-93BC-4615-932C-8A2609A400CE}.NIKA_DEBUG|Any CPU.Build.0 = NIKA_DEBUG|Any CPU
+		{C8751F0D-93BC-4615-932C-8A2609A400CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8751F0D-93BC-4615-932C-8A2609A400CE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {70874528-1472-4194-9F3A-4F4FEA147356}
+	EndGlobalSection
+EndGlobal
